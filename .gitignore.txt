@@ -1,1 +1,20 @@
+# Python bytecode
+__pycache__/
+*.pyc
 
+# Virtual environment folders
+venv/
+env/
+.venv/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific folders
+.vscode/
+.idea/
+
+# Any local data files you don't want to upload
+# For example:
+# large_dataset.csv
